@@ -1,0 +1,10 @@
+* {
+    padding: 0px 0px;
+    margin: 0px 0px;
+}
+
+/* This is used to "clear" the floated elements */
+/* img { width: 100% } */
+
+/* float the elements so that white space does not matter */
+img { float: left; }
